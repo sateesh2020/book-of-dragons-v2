@@ -1,0 +1,32 @@
+{
+  "name": "book-of-dragons",
+  "version": "1.0.0",
+  "description": "Book of Dragons services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sateesh2020/book-of-dragons-v2.git"
+  },
+  "keywords": [
+    "Mongo DB",
+    "Node JS",
+    "Graph QL"
+  ],
+  "author": "Satheesh Valluru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sateesh2020/book-of-dragons-v2/issues"
+  },
+  "homepage": "https://github.com/sateesh2020/book-of-dragons-v2#readme",
+  "dependencies": {
+    "apollo-server": "^2.9.16",
+    "graphql": "^14.6.0",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
